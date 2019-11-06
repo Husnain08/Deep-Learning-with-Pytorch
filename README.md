@@ -9,9 +9,9 @@ To get started, download this repository as a zip file or fork it.
 To get started, you need to install the following
 
 ```
-*  **PyTorch**
-* **Matplotlib**
-* ** Pandas**
+*  PyTorch
+* Matplotlib
+*  Pandas
 Furthermore, there are links for downloading data that are embedded inside the notebook for ease of use 
 ```
 
@@ -31,12 +31,12 @@ To install PyTorch, go to [PyTorch] (https://pytorch.org/)
 
 ## Contributing
 
-The unsolved template code could be found at the Udacity's Github [Here] (https://github.com/udacity/deep-learning-v2-pytorch) 
+The unsolved template code could be found at the Udacity's Github. (https://github.com/udacity/deep-learning-v2-pytorch) 
 
 ## Authors
 
 * **Muhammad Husnain** 
-Please feel free to email me @ Muhammadhusnain08@gmail.com if you have any qquestions
+Please feel free to email me @ Muhammadhusnain08@gmail.com if you have any questions
 
 
 
