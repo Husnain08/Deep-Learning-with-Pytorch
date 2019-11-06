@@ -24,6 +24,14 @@ To install PyTorch, go to [PyTorch] (https://pytorch.org/)
 * pip3 install torch==1.3.0+cpu torchvision==0.4.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 ```
 
+#### Projects Detail
+There are total 5 projects included in this repository. They are
+
+* Predicting Bike Sharing Patterns
+* Dog Breed Classifier
+* Generating Artistic Faces with DCGAN
+* TV Script Generation using LSTM
+* Deploying a Sentiment analysis model with AWS
 
 ## Built With
 
