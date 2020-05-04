@@ -9,9 +9,9 @@ To get started, download this repository as a zip file or fork it.
 To get started, you need to install the following
 
 ```
-*  PyTorch
+* PyTorch
 * Matplotlib
-*  Pandas
+* Pandas
 Furthermore, there are links for downloading data that are embedded inside the notebook for ease of use 
 ```
 
@@ -19,7 +19,7 @@ Furthermore, there are links for downloading data that are embedded inside the n
 
 To install PyTorch, go to [PyTorch] (https://pytorch.org/)
 ```
-* Choose your **Operating System** and whether you want to have CUDA installed on your system
+* Choose your Operating System and whether you want to have CUDA installed on your system
 * For example, you could install the stable version of PyTorch on Windows using pip as
 * pip3 install torch==1.3.0+cpu torchvision==0.4.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 ```
@@ -32,6 +32,7 @@ There are total 5 projects included in this repository. They are
 * Generating Artistic Faces with DCGAN
 * TV Script Generation using LSTM
 * Deploying a Sentiment analysis model with AWS
+* Facial Key-points recognition system using CNNs in PyTorch
 
 ## Built With
 
